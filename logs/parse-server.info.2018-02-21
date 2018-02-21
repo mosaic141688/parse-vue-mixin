@@ -1,0 +1,52 @@
+{"level":"info","message":"Create new client: cfc62e4b-79fc-4175-a4af-86b7a5f8f307","timestamp":"2018-02-21T14:37:09.576Z"}
+{"level":"info","message":"Create new client: b8f81f3d-08a7-4ede-ab2d-f7a7a14fa9b3","timestamp":"2018-02-21T14:37:09.608Z"}
+{"level":"info","message":"Create new client: 7993a943-aebd-4a7b-9253-671a18f22c3a","timestamp":"2018-02-21T14:37:09.685Z"}
+{"level":"info","message":"Create new client: fc501591-b551-4585-bb98-a477d036d1e3","timestamp":"2018-02-21T14:37:09.834Z"}
+{"level":"info","message":"Create new client: 68f6bad2-a1ae-4774-906c-da6a8212be62","timestamp":"2018-02-21T14:37:10.581Z"}
+{"level":"info","message":"Create new client: ce690cfb-0753-4e33-b8f2-0a680f7f8d8e","timestamp":"2018-02-21T14:37:14.525Z"}
+{"level":"info","message":"Client disconnect: ce690cfb-0753-4e33-b8f2-0a680f7f8d8e","timestamp":"2018-02-21T14:43:45.821Z"}
+{"level":"info","message":"Client disconnect: 68f6bad2-a1ae-4774-906c-da6a8212be62","timestamp":"2018-02-21T14:43:45.845Z"}
+{"level":"info","message":"Create new client: 17f08054-9d5c-444e-aba3-a31a9a8fabcd","timestamp":"2018-02-21T14:43:49.738Z"}
+{"level":"info","message":"Create new client: 7020081d-0ff1-4f6e-9394-c777b388c6e2","timestamp":"2018-02-21T14:43:49.741Z"}
+{"level":"info","message":"Client disconnect: fc501591-b551-4585-bb98-a477d036d1e3","timestamp":"2018-02-21T14:43:50.244Z"}
+{"level":"info","message":"Client disconnect: cfc62e4b-79fc-4175-a4af-86b7a5f8f307","timestamp":"2018-02-21T14:43:50.250Z"}
+{"level":"info","message":"Client disconnect: b8f81f3d-08a7-4ede-ab2d-f7a7a14fa9b3","timestamp":"2018-02-21T14:43:50.686Z"}
+{"level":"info","message":"Client disconnect: 7993a943-aebd-4a7b-9253-671a18f22c3a","timestamp":"2018-02-21T14:43:50.687Z"}
+{"level":"info","message":"Create new client: 2c0dc6ee-0c6b-482a-b62a-49af79fda6a0","timestamp":"2018-02-21T14:44:16.755Z"}
+{"level":"info","message":"Create new client: 7fcd9820-cd38-4d82-8bb9-3b062e90c50a","timestamp":"2018-02-21T14:44:16.957Z"}
+{"level":"info","message":"Create new client: fc8782a2-137b-4afe-91d6-17f43f179486","timestamp":"2018-02-21T14:44:17.147Z"}
+{"level":"info","message":"Create new client: 83fbd80f-2a39-4735-8edd-dabebffb8066","timestamp":"2018-02-21T14:44:17.148Z"}
+{"level":"info","message":"Client disconnect: 17f08054-9d5c-444e-aba3-a31a9a8fabcd","timestamp":"2018-02-21T14:44:39.413Z"}
+{"level":"info","message":"Client disconnect: 7020081d-0ff1-4f6e-9394-c777b388c6e2","timestamp":"2018-02-21T14:44:39.415Z"}
+{"level":"info","message":"Create new client: 76734147-fea8-4eee-a02a-57a7367e1fc4","timestamp":"2018-02-21T14:44:45.716Z"}
+{"level":"info","message":"Create new client: 6d269183-77e5-4e5f-a920-bc00afbe03b5","timestamp":"2018-02-21T14:44:45.718Z"}
+{"level":"info","message":"Client disconnect: 83fbd80f-2a39-4735-8edd-dabebffb8066","timestamp":"2018-02-21T14:44:46.675Z"}
+{"level":"info","message":"Client disconnect: fc8782a2-137b-4afe-91d6-17f43f179486","timestamp":"2018-02-21T14:44:46.676Z"}
+{"level":"info","message":"Client disconnect: 7fcd9820-cd38-4d82-8bb9-3b062e90c50a","timestamp":"2018-02-21T14:44:47.862Z"}
+{"level":"info","message":"Client disconnect: 2c0dc6ee-0c6b-482a-b62a-49af79fda6a0","timestamp":"2018-02-21T14:44:47.873Z"}
+{"level":"info","message":"Client disconnect: undefined","timestamp":"2018-02-21T14:44:49.457Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-02-21T14:44:49.458Z"}
+{"level":"info","message":"Create new client: 8a5ed3bb-8eae-43c1-b7ac-91345601bbc1","timestamp":"2018-02-21T14:45:30.285Z"}
+{"level":"info","message":"Create new client: ff62db38-7142-42df-8fa2-337c797157be","timestamp":"2018-02-21T14:45:30.861Z"}
+{"level":"info","message":"Client disconnect: 6d269183-77e5-4e5f-a920-bc00afbe03b5","timestamp":"2018-02-21T14:46:26.026Z"}
+{"level":"info","message":"Client disconnect: 76734147-fea8-4eee-a02a-57a7367e1fc4","timestamp":"2018-02-21T14:46:26.028Z"}
+{"level":"info","message":"Create new client: 2d02a28f-4776-4fd1-acc9-d41b09ef9732","timestamp":"2018-02-21T14:46:31.534Z"}
+{"level":"info","message":"Create new client: 70433864-f411-444b-b430-52ec36424927","timestamp":"2018-02-21T14:46:31.540Z"}
+{"level":"info","message":"Client disconnect: 2d02a28f-4776-4fd1-acc9-d41b09ef9732","timestamp":"2018-02-21T14:46:39.345Z"}
+{"level":"info","message":"Client disconnect: 70433864-f411-444b-b430-52ec36424927","timestamp":"2018-02-21T14:46:39.346Z"}
+{"level":"info","message":"Create new client: 5df921b0-76e4-4df2-a9f7-d454445c13a8","timestamp":"2018-02-21T14:46:43.753Z"}
+{"level":"info","message":"Create new client: 98f06c57-051c-4892-8181-c4b1a4aa38cc","timestamp":"2018-02-21T14:46:43.758Z"}
+{"level":"info","message":"Client disconnect: 5df921b0-76e4-4df2-a9f7-d454445c13a8","timestamp":"2018-02-21T14:47:28.188Z"}
+{"level":"info","message":"Client disconnect: 98f06c57-051c-4892-8181-c4b1a4aa38cc","timestamp":"2018-02-21T14:47:28.189Z"}
+{"level":"info","message":"Create new client: e9b68d8f-a846-457d-b1be-9dbd08355ed3","timestamp":"2018-02-21T14:47:32.604Z"}
+{"level":"info","message":"Create new client: 03c32280-fe58-4083-980f-ab1843a1de83","timestamp":"2018-02-21T14:47:32.607Z"}
+{"level":"info","message":"Client disconnect: ff62db38-7142-42df-8fa2-337c797157be","timestamp":"2018-02-21T14:47:40.296Z"}
+{"level":"info","message":"Client disconnect: 8a5ed3bb-8eae-43c1-b7ac-91345601bbc1","timestamp":"2018-02-21T14:47:40.297Z"}
+{"level":"info","message":"Create new client: 2535d415-eb0e-4068-8754-dc7fda41777c","timestamp":"2018-02-21T14:47:44.582Z"}
+{"level":"info","message":"Client disconnect: 2535d415-eb0e-4068-8754-dc7fda41777c","timestamp":"2018-02-21T14:49:15.067Z"}
+{"level":"info","message":"Create new client: 15315752-1c46-4d99-a532-8e9f11c43b95","timestamp":"2018-02-21T14:49:17.285Z"}
+{"level":"info","message":"Create new client: 3ac1e715-662c-44d8-886d-75f35e6873d8","timestamp":"2018-02-21T14:49:17.296Z"}
+{"level":"info","message":"Client disconnect: 15315752-1c46-4d99-a532-8e9f11c43b95","timestamp":"2018-02-21T14:49:22.386Z"}
+{"level":"info","message":"Client disconnect: 3ac1e715-662c-44d8-886d-75f35e6873d8","timestamp":"2018-02-21T14:49:22.390Z"}
+{"level":"info","message":"Create new client: 20abaad3-2403-4e58-8201-cbffccda2105","timestamp":"2018-02-21T14:49:24.768Z"}
+{"level":"info","message":"Create new client: f6169317-bd24-46de-ab3c-ba69768bba87","timestamp":"2018-02-21T14:49:24.769Z"}
