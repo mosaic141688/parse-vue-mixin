@@ -24,7 +24,7 @@
                             class="elevation-1"
                     >
                         <template slot="items" slot-scope="props">
-                            <td v-for="field in custom_fields">{{ props.item[field]}}</td>
+                            <td v-for="field in custom_fields">{{ props.item.get(field)}}</td>
                         </template>
                     </v-data-table>
                 </v-card-text>

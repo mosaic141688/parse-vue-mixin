@@ -35,22 +35,17 @@ const parseMixin = {
 
                     subscription.on('create', (object) => {
                         console.log('object created',object);
-
                     });
 
 
                     subscription.on('update', (object) => {
-                        console.log('object updated');
+                        console.log('object updated',object);
+                        self.rows = self.rows.map(row => row.id===object.id?object:row)
                     });
 
                     query.find({
                         success(result){
-                            self.rows = result.map(item => {
-                                let row = {}
-                                self.custom_fields.forEach(field => row[field] = item.get(field))
-                                return row
-                            })
-
+                            self.rows = result
                         },
                         error(){
                           console.log('Query Fail')

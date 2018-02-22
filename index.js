@@ -11,10 +11,15 @@ const api = new ParseServer({
     masterKey: 'myMasterKey', // Keep this key secret!
     fileKey: 'optionalFileKey',
     serverURL: 'http://localhost:3000/parse', // Don't forget to change to https if needed
-    liveQuery:['thing']
+    liveQuery:{
+        classNames:['thing']
+    }
 });
 
-ParseServer.createLiveQueryServer(httpServer)
+ParseServer.createLiveQueryServer(httpServer,
+    {
+        liveQuery:['thing']
+    })
 
 // Serve the Parse API on the /parse URL prefix
 app.use('/parse', api);

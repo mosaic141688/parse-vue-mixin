@@ -73,7 +73,6 @@
   import ThingTable from "./thing-table";
   export default {
       components: {ThingTable},
-      parse_class:'thing',
     data () {
       return {
         clipped: false,
