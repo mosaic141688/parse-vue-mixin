@@ -1,0 +1,12 @@
+{"error":{"code":103,"message":"Class thing does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class thing does not exist.' }","timestamp":"2018-03-03T19:55:06.469Z"}
+{"code":103,"message":"Class thing does not exist.","level":"error","timestamp":"2018-03-03T19:55:06.490Z"}
+{"error":{"code":103,"message":"Class thing does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class thing does not exist.' }","timestamp":"2018-03-03T19:55:21.326Z"}
+{"code":103,"message":"Class thing does not exist.","level":"error","timestamp":"2018-03-03T19:55:21.332Z"}
+{"error":{"code":103,"message":"Class anything does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class anything does not exist.' }","timestamp":"2018-03-03T20:18:48.725Z"}
+{"code":103,"message":"Class anything does not exist.","level":"error","timestamp":"2018-03-03T20:18:48.735Z"}
+{"error":{"code":103,"message":"Class anything does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class anything does not exist.' }","timestamp":"2018-03-03T20:18:48.737Z"}
+{"code":103,"message":"Class anything does not exist.","level":"error","timestamp":"2018-03-03T20:18:48.741Z"}
+{"error":{"code":103,"message":"Class anything does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class anything does not exist.' }","timestamp":"2018-03-03T20:18:49.310Z"}
+{"code":103,"message":"Class anything does not exist.","level":"error","timestamp":"2018-03-03T20:18:49.315Z"}
+{"error":{"code":111,"message":"schema mismatch for anything.joinedQs; expected Array but got String"},"level":"error","message":"Error generating response. ParseError {\n  code: 111,\n  message: 'schema mismatch for anything.joinedQs; expected Array but got String' }","timestamp":"2018-03-03T20:22:52.405Z"}
+{"code":111,"message":"schema mismatch for anything.joinedQs; expected Array but got String","level":"error","timestamp":"2018-03-03T20:22:52.413Z"}

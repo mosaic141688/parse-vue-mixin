@@ -43,7 +43,7 @@
       <v-container fluid>
         <v-slide-y-transition mode="out-in">
           <v-layout column align-center>
-            <thing-table></thing-table>
+            <router-view ></router-view>
           </v-layout>
         </v-slide-y-transition>
       </v-container>
@@ -55,11 +55,8 @@
       fixed
     >
       <v-list>
-        <v-list-tile @click.native="right = !right">
-          <v-list-tile-action>
-            <v-icon>compare_arrows</v-icon>
-          </v-list-tile-action>
-          <v-list-tile-title>Switch drawer (click me)</v-list-tile-title>
+        <v-list-tile @click.native="login = !login">
+
         </v-list-tile>
       </v-list>
     </v-navigation-drawer>
@@ -71,21 +68,30 @@
 
 <script>
   import ThingTable from "./thing-table";
+  import login from './components/login'
   export default {
-      components: {ThingTable},
+      components: {ThingTable,login},
     data () {
       return {
         clipped: false,
         drawer: true,
         fixed: false,
         items: [
-          { icon: 'bubble_chart', title: 'Inspire' }
+          { icon: 'home', title: 'Home' },
+            { icon: 'home', title: 'Events' },
+            { icon: 'home', title: 'Artists' }
+
         ],
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Vuetify.js'
+        title: 'SEEMA'
       }
-    }
+    },
+      computed:{
+          login_dialog : () => true
+      }
+
   }
+
 </script>

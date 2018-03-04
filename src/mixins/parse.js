@@ -8,7 +8,7 @@ const parseMixin = {
         return {
             custom_fields: ['field1'],
             class_name: '',
-            rows:[]
+            $rows:[]
         }
     },
     created: function () {
@@ -16,11 +16,14 @@ const parseMixin = {
     },
     methods: {
         init_parse: function () {
+            console.log('init parse',this.$options.parse_class)
             const class_name = this.$options.parse_class
             if (!class_name) return
             this.class_name = class_name
             const schema = new Parse.Schema(class_name)
             const self = this;
+            console.log('class_name',class_name)
+            this.parse = Parse;
             schema.get({
                 success(_schema) {
                      self.custom_fields = Object.keys(_schema.fields)
@@ -31,21 +34,23 @@ const parseMixin = {
 
                     subscription.on('open', () => {
                         console.log('subscription opened');
+
                     });
 
                     subscription.on('create', (object) => {
                         console.log('object created',object);
+                        self.$rows.push(object)
                     });
 
 
                     subscription.on('update', (object) => {
                         console.log('object updated',object);
-                        self.rows = self.rows.map(row => row.id===object.id?object:row)
+                        self.$rows = self.rows.map(row => row.id===object.id?object:row)
                     });
 
                     query.find({
                         success(result){
-                            self.rows = result
+                            self.$rows = result
                         },
                         error(){
                           console.log('Query Fail')

@@ -1,0 +1,2 @@
+{"error":{"code":103,"message":"Class thing does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class thing does not exist.' }","timestamp":"2018-02-22T17:57:51.271Z"}
+{"code":103,"message":"Class thing does not exist.","level":"error","timestamp":"2018-02-22T17:57:51.278Z"}

@@ -12,7 +12,7 @@ const api = new ParseServer({
     fileKey: 'optionalFileKey',
     serverURL: 'http://localhost:3000/parse', // Don't forget to change to https if needed
     liveQuery:{
-        classNames:['thing']
+        classNames:['thing','anything']
     }
 });
 

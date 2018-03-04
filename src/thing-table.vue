@@ -35,7 +35,7 @@
 
 <script>
     export default {
-        parse_class: 'thing',
+        parse_class: 'anything',
         name: "thing-table",
         created() {
             console.log('Thing Table created')
