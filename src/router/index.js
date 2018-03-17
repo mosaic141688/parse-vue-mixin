@@ -19,25 +19,25 @@ export default
         routes:[
             {
                 path: '/',
-                name: 'Home',
+                name: 'home',
                 component: agents,
                 meta: {
-                    permission: 'admin',
+                    permission: 'home',
                     fail: '/login'
                 }
             },
             {
                 path: '/Agents',
-                name: 'Home',
+                name: 'agent',
                 component: agents,
                 meta: {
-                    permission: 'admin',
+                    permission: 'agents',
                     fail: '/login'
                 }
             },
             {
                 path: '/Queues',
-                name:'Home',
+                name:'queues',
                 component:queues,
                 meta: {
                     permission: 'admin',
@@ -46,7 +46,7 @@ export default
             },
             {
                 path: '/Profile',
-                name:'Home',
+                name:'profile',
                 component:account,
                 meta: {
                     permission: 'admin',

@@ -18,6 +18,8 @@ const parseMixin = {
         init_parse: function () {
             console.log('init parse',this.$options.parse_class)
             const class_name = this.$options.parse_class
+            const account = this.$options.account
+            if(account) this.user = Parse.User
             if (!class_name) return
             this.class_name = class_name
             const schema = new Parse.Schema(class_name)

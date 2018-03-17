@@ -9,7 +9,7 @@
                     <v-toolbar-title>Login</v-toolbar-title>
                     <v-spacer></v-spacer>
                     <v-toolbar-items>
-                        <v-btn dark flat @click.native="dialog = false">Login</v-btn>
+                        <v-btn dark flat @click.native="dialog = false" v-on:click="signup">{{login?'Login':'Signup'}}</v-btn>
                     </v-toolbar-items>
                 </v-toolbar>
                 <v-layout row wrap>
@@ -47,6 +47,12 @@
                                         class="login-input"
                                         label="Email"
                                         v-model="user.email"
+                                        required
+                                ></v-text-field>
+                                <v-text-field
+                                        class="login-input"
+                                        label="User Name"
+                                        v-model="user.username"
                                         required
                                 ></v-text-field>
                                 <v-text-field
@@ -107,11 +113,29 @@
             },
         created(){
             console.log('Login created')
+
         },
         methods:{
             toge_login(){
                 console.log('togelelogin')
                 this.login = !this.login
+            },
+            signup(){
+                let user = new this.parse.User()
+                Object.keys(this.user).forEach(k =>{
+                    console.log(k,this.user[k])
+                    user.set(k,this.user[k])
+                } )
+                user.signUp(null,{
+                    success(new_user){
+                        console.log('Hooray Im signed up',new_user)
+                        console.log('Current User',this.parse.User.current())
+                    },
+                    error(failed_user,error){
+                        console.log('What happened',error)
+                        alert(error.message)
+                    }
+                })
             }
         }
 

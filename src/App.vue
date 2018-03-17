@@ -71,6 +71,7 @@
   import login from './components/login'
   export default {
       components: {ThingTable,login},
+      parse_class:'anything',
     data () {
       return {
         clipped: false,
@@ -90,6 +91,15 @@
     },
       computed:{
           login_dialog : () => true
+      },
+      created(){
+          console.log('Current User',this.parse.User.current())
+       if(this.parse.User.current()){
+           console.log('Current User',this.parse.User.current())
+           this.access = 'home'
+       }
+          this.access = 'home'
+       console.log('Admin',this.access)
       }
 
   }
