@@ -1,0 +1,330 @@
+{"message":"Unable to ensure uniqueness for usernames: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T17:14:45.465Z"}
+{"message":"Unable to ensure uniqueness for user email addresses: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T17:14:45.470Z"}
+{"message":"Unable to ensure uniqueness for role name: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T17:14:45.471Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:46.751Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:46.756Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:46.757Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:46.758Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.142Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.144Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.268Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.269Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.370Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.372Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.373Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.374Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.836Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.838Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:47.963Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:47.964Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:48.701Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:48.703Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:14:48.780Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:14:48.781Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:40.060Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:40.063Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:40.064Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:40.067Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:40.733Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:40.752Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:40.806Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:40.808Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:40.977Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:40.978Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:41.122Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:41.123Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:41.600Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:41.602Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:41.796Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:41.802Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:42.465Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:42.467Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:43.431Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:43.433Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:55.011Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:55.014Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:55.020Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:55.023Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:55.565Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:55.571Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:55.751Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:55.758Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:56.047Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:56.050Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:56.274Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:56.281Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:56.998Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:57.000Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:57.193Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:57.195Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:57.443Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:57.445Z"}
+{"error":{"code":1,"message":"Database adapter error."},"level":"error","message":"Error generating response. ParseError { code: 1, message: 'Database adapter error.' }","timestamp":"2018-03-17T17:15:58.569Z"}
+{"code":1,"message":"Database adapter error.","level":"error","timestamp":"2018-03-17T17:15:58.573Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T17:16:43.718Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T17:16:43.725Z"}
+{"level":"info","message":"Create new client: 09a79907-d0ca-438d-a438-e5feaa6f8bec","timestamp":"2018-03-17T17:16:44.261Z"}
+{"message":"Unable to ensure uniqueness for usernames: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:25.744Z"}
+{"message":"Unable to ensure uniqueness for user email addresses: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:25.748Z"}
+{"message":"Unable to ensure uniqueness for role name: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:25.749Z"}
+{"message":"Unable to ensure uniqueness for usernames: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:47.050Z"}
+{"message":"Unable to ensure uniqueness for user email addresses: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:47.057Z"}
+{"message":"Unable to ensure uniqueness for role name: ","name":"MongoNetworkError","stack":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/topologies/server.js:503:11)\n    at Pool.emit (events.js:160:13)\n    at Connection.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/pool.js:326:12)\n    at Object.onceWrapper (events.js:255:19)\n    at Connection.emit (events.js:160:13)\n    at Socket.<anonymous> (/home/sihle/Projects/parse-vue-mixin/node_modules/mongodb-core/lib/connection/connection.js:245:50)\n    at Object.onceWrapper (events.js:255:19)\n    at Socket.emit (events.js:160:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:152:19)","level":"warn","timestamp":"2018-03-17T20:05:47.057Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:25:46.357Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:25:46.362Z"}
+{"level":"info","message":"Create new client: 98898548-bed1-4f96-9f6f-190f2cad6784","timestamp":"2018-03-17T20:25:46.805Z"}
+{"level":"info","message":"Client disconnect: 98898548-bed1-4f96-9f6f-190f2cad6784","timestamp":"2018-03-17T20:26:05.616Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:26:06.962Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:26:06.964Z"}
+{"level":"info","message":"Create new client: cd9dd0e7-2106-406d-94d2-c4aff9379fbf","timestamp":"2018-03-17T20:26:07.497Z"}
+{"error":{"code":202,"message":"Account already exists for this username."},"level":"error","message":"Error generating response. ParseError {\n  code: 202,\n  message: 'Account already exists for this username.' }","timestamp":"2018-03-17T20:27:28.670Z"}
+{"code":202,"message":"Account already exists for this username.","level":"error","timestamp":"2018-03-17T20:27:28.674Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T20:28:36.807Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T20:28:36.809Z"}
+{"level":"info","message":"Client disconnect: cd9dd0e7-2106-406d-94d2-c4aff9379fbf","timestamp":"2018-03-17T20:28:57.458Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:28:58.168Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:28:58.171Z"}
+{"level":"info","message":"Create new client: f39a7a1a-a183-4b20-a5b9-786e8b4fd5ba","timestamp":"2018-03-17T20:28:58.563Z"}
+{"level":"info","message":"Client disconnect: f39a7a1a-a183-4b20-a5b9-786e8b4fd5ba","timestamp":"2018-03-17T20:29:04.939Z"}
+{"level":"info","message":"Create new client: 81d7fd9c-20ce-4100-9908-05e597410d7c","timestamp":"2018-03-17T20:29:05.625Z"}
+{"level":"info","message":"Client disconnect: 81d7fd9c-20ce-4100-9908-05e597410d7c","timestamp":"2018-03-17T20:29:10.545Z"}
+{"level":"info","message":"Create new client: 54c9fd39-7d94-4400-9570-7d4958d06771","timestamp":"2018-03-17T20:29:10.966Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:29:27.510Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:29:27.522Z"}
+{"level":"info","message":"Create new client: c987edff-0399-4384-8760-55c73dc43712","timestamp":"2018-03-17T20:29:27.559Z"}
+{"level":"info","message":"Client disconnect: c987edff-0399-4384-8760-55c73dc43712","timestamp":"2018-03-17T20:29:35.606Z"}
+{"level":"info","message":"Create new client: 0ae6955e-135f-4f27-9c59-9bd079028227","timestamp":"2018-03-17T20:29:36.314Z"}
+{"level":"info","message":"Client disconnect: 0ae6955e-135f-4f27-9c59-9bd079028227","timestamp":"2018-03-17T20:29:41.151Z"}
+{"level":"info","message":"Create new client: 3d60d706-22f9-4411-be9f-8f959faf2510","timestamp":"2018-03-17T20:29:41.418Z"}
+{"level":"info","message":"Client disconnect: 3d60d706-22f9-4411-be9f-8f959faf2510","timestamp":"2018-03-17T20:29:43.704Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:29:54.497Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:29:54.517Z"}
+{"level":"info","message":"Create new client: 95e4bff5-660b-4e4c-9311-5885bcab084e","timestamp":"2018-03-17T20:29:54.539Z"}
+{"level":"info","message":"Client disconnect: 95e4bff5-660b-4e4c-9311-5885bcab084e","timestamp":"2018-03-17T20:30:03.808Z"}
+{"level":"info","message":"Create new client: 2670cb94-4097-4de8-bcc2-533069c42a8e","timestamp":"2018-03-17T20:30:04.484Z"}
+{"level":"info","message":"Client disconnect: 2670cb94-4097-4de8-bcc2-533069c42a8e","timestamp":"2018-03-17T20:30:23.761Z"}
+{"level":"info","message":"Create new client: d79462ad-7d83-4ad5-b238-997ebd456a4f","timestamp":"2018-03-17T20:30:24.893Z"}
+{"level":"info","message":"Client disconnect: d79462ad-7d83-4ad5-b238-997ebd456a4f","timestamp":"2018-03-17T20:34:56.411Z"}
+{"level":"info","message":"Create new client: c8130c31-4481-4e76-8a51-671871fe1828","timestamp":"2018-03-17T20:34:57.686Z"}
+{"level":"info","message":"Client disconnect: c8130c31-4481-4e76-8a51-671871fe1828","timestamp":"2018-03-17T20:35:01.456Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:35:12.193Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:35:12.195Z"}
+{"level":"info","message":"Create new client: 8331585a-19ba-40b9-a040-bddc3a69139c","timestamp":"2018-03-17T20:35:12.228Z"}
+{"level":"info","message":"Client disconnect: 8331585a-19ba-40b9-a040-bddc3a69139c","timestamp":"2018-03-17T20:37:16.886Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:37:18.153Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:37:18.176Z"}
+{"level":"info","message":"Create new client: 4d12499d-6fab-4550-817f-a346947018f6","timestamp":"2018-03-17T20:37:18.201Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-17T20:38:01.252Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-17T20:38:01.281Z"}
+{"level":"info","message":"Create new client: 2cbdb160-b7eb-478a-8a56-f96226a2e0fa","timestamp":"2018-03-17T20:38:22.442Z"}
+{"level":"info","message":"Create new client: 3366fbb9-b684-443c-9d39-4f8e0228cdec","timestamp":"2018-03-17T20:38:24.749Z"}
+{"level":"info","message":"Client disconnect: 2cbdb160-b7eb-478a-8a56-f96226a2e0fa","timestamp":"2018-03-17T20:38:47.435Z"}
+{"level":"info","message":"Client disconnect: 3366fbb9-b684-443c-9d39-4f8e0228cdec","timestamp":"2018-03-17T20:38:47.444Z"}
+{"level":"info","message":"Create new client: e80861dd-e339-4c4b-9aff-1f1f93822ff9","timestamp":"2018-03-17T20:38:49.722Z"}
+{"level":"info","message":"Create new client: 5dbd4b7e-2ed2-48f0-ac14-ae25cbc36be4","timestamp":"2018-03-17T20:38:50.024Z"}
+{"level":"info","message":"Create new client: b22ba163-a446-4cc3-8d68-97beeb8570e7","timestamp":"2018-03-17T20:38:50.169Z"}
+{"level":"info","message":"Client disconnect: e80861dd-e339-4c4b-9aff-1f1f93822ff9","timestamp":"2018-03-17T20:38:52.107Z"}
+{"level":"info","message":"Create new client: 9f44e245-c4a3-46fe-a0c8-0f3a6a4000c9","timestamp":"2018-03-17T20:38:53.384Z"}
+{"level":"info","message":"Create new client: 18072663-a9a5-47fd-9ee2-5aa33c99db6a","timestamp":"2018-03-17T20:45:16.039Z"}
+{"level":"info","message":"Client disconnect: 9f44e245-c4a3-46fe-a0c8-0f3a6a4000c9","timestamp":"2018-03-17T20:49:23.359Z"}
+{"level":"info","message":"Create new client: 02f96b44-64b7-4448-96da-712bf407b737","timestamp":"2018-03-17T20:49:24.641Z"}
+{"level":"info","message":"Client disconnect: 02f96b44-64b7-4448-96da-712bf407b737","timestamp":"2018-03-17T20:53:14.246Z"}
+{"level":"info","message":"Client disconnect: 5dbd4b7e-2ed2-48f0-ac14-ae25cbc36be4","timestamp":"2018-03-17T20:56:56.043Z"}
+{"level":"info","message":"Client disconnect: b22ba163-a446-4cc3-8d68-97beeb8570e7","timestamp":"2018-03-17T20:56:56.066Z"}
+{"level":"info","message":"Client disconnect: 18072663-a9a5-47fd-9ee2-5aa33c99db6a","timestamp":"2018-03-17T20:56:56.080Z"}
+{"level":"info","message":"Create new client: da6b750a-afde-4362-80e3-a58218c797ed","timestamp":"2018-03-17T20:56:58.103Z"}
+{"level":"info","message":"Create new client: b595a688-84f3-4439-b219-4319872b938f","timestamp":"2018-03-17T20:56:58.981Z"}
+{"level":"info","message":"Create new client: 3740231b-38c1-4f33-af13-24820c2754bf","timestamp":"2018-03-17T20:56:59.408Z"}
+{"level":"info","message":"Client disconnect: 3740231b-38c1-4f33-af13-24820c2754bf","timestamp":"2018-03-17T20:57:26.907Z"}
+{"level":"info","message":"Client disconnect: b595a688-84f3-4439-b219-4319872b938f","timestamp":"2018-03-17T20:57:26.958Z"}
+{"level":"info","message":"Client disconnect: da6b750a-afde-4362-80e3-a58218c797ed","timestamp":"2018-03-17T20:57:26.976Z"}
+{"level":"info","message":"Create new client: 8ba35b6a-b196-4248-a20d-33c07809006f","timestamp":"2018-03-17T20:57:29.749Z"}
+{"level":"info","message":"Create new client: a0e4dcda-5a2f-485a-aa5f-a02c9e5c1125","timestamp":"2018-03-17T20:57:30.407Z"}
+{"level":"info","message":"Create new client: 6b71e533-1c17-441e-82d2-ed4c7b118551","timestamp":"2018-03-17T20:57:30.623Z"}
+{"level":"info","message":"Create new client: 5650f01a-c288-4eba-a45d-484b7d530b72","timestamp":"2018-03-17T20:57:31.583Z"}
+{"level":"info","message":"Client disconnect: 5650f01a-c288-4eba-a45d-484b7d530b72","timestamp":"2018-03-17T20:57:45.917Z"}
+{"level":"info","message":"Client disconnect: 6b71e533-1c17-441e-82d2-ed4c7b118551","timestamp":"2018-03-17T20:57:46.027Z"}
+{"level":"info","message":"Client disconnect: 8ba35b6a-b196-4248-a20d-33c07809006f","timestamp":"2018-03-17T20:57:46.273Z"}
+{"level":"info","message":"Client disconnect: a0e4dcda-5a2f-485a-aa5f-a02c9e5c1125","timestamp":"2018-03-17T20:57:46.283Z"}
+{"level":"info","message":"Create new client: fce1bd7a-f4b8-4ccf-a279-8ca00c1f18ab","timestamp":"2018-03-17T20:57:49.916Z"}
+{"level":"info","message":"Create new client: 88915449-85f0-454d-9d9f-8bef9d3b3302","timestamp":"2018-03-17T20:57:50.154Z"}
+{"level":"info","message":"Create new client: 8a92833f-a1f6-4e19-a6dc-37d744035510","timestamp":"2018-03-17T20:57:50.543Z"}
+{"level":"info","message":"Create new client: 0b020f5d-3c04-4246-9d89-fd71f38251e3","timestamp":"2018-03-17T20:57:50.622Z"}
+{"level":"info","message":"Create new client: 9358ff14-7039-417e-93c9-2eb1f13551a6","timestamp":"2018-03-17T20:57:51.917Z"}
+{"level":"info","message":"Client disconnect: 0b020f5d-3c04-4246-9d89-fd71f38251e3","timestamp":"2018-03-17T20:58:28.111Z"}
+{"level":"info","message":"Create new client: 5316309b-364f-4e48-8726-960253463cd2","timestamp":"2018-03-17T20:58:29.354Z"}
+{"level":"info","message":"Create new client: 0ba06911-9d73-48a8-8c50-b8bbfa13c410","timestamp":"2018-03-17T21:01:51.730Z"}
+{"level":"info","message":"Create new client: b56f235e-c700-4ae1-934d-0f13b2b53198","timestamp":"2018-03-17T21:02:32.385Z"}
+{"level":"info","message":"Create new client: b4efd347-8b56-4cfe-9e87-7ade2a20830d","timestamp":"2018-03-17T21:03:01.821Z"}
+{"level":"info","message":"Create new client: 9f8181e6-6efa-475a-af80-aed6b206ee0d","timestamp":"2018-03-17T21:03:02.372Z"}
+{"level":"info","message":"Create new client: a3ba144d-d842-4129-82e0-2d0c7ecc1cbc","timestamp":"2018-03-17T21:03:02.608Z"}
+{"level":"info","message":"Create new client: b0fbcb07-8a94-43e2-8ed9-5bb3da00f32c","timestamp":"2018-03-17T21:05:13.969Z"}
+{"level":"info","message":"Create new client: 75cd95e4-aeed-4a45-be8d-314ebd663fbf","timestamp":"2018-03-17T21:05:14.368Z"}
+{"level":"info","message":"Create new client: af112a5d-1e8b-447b-a2b4-089dbf1148ad","timestamp":"2018-03-17T21:05:42.386Z"}
+{"level":"info","message":"Client disconnect: 75cd95e4-aeed-4a45-be8d-314ebd663fbf","timestamp":"2018-03-17T21:08:47.507Z"}
+{"level":"info","message":"Create new client: da2c237a-73bf-4a48-829e-d97bedb0a477","timestamp":"2018-03-17T21:09:31.382Z"}
+{"level":"info","message":"Client disconnect: b0fbcb07-8a94-43e2-8ed9-5bb3da00f32c","timestamp":"2018-03-17T21:09:52.876Z"}
+{"level":"info","message":"Create new client: 3cbe0a3a-b730-4d16-9ed5-0fe99bdbf35e","timestamp":"2018-03-17T21:09:55.922Z"}
+{"level":"info","message":"Create new client: c6dd16c9-04e9-4a49-a9ea-688a527ab309","timestamp":"2018-03-17T21:14:04.038Z"}
+{"level":"info","message":"Create new client: 1d1c0dc5-f72b-433e-ae12-a0ab3ed48225","timestamp":"2018-03-17T21:14:05.410Z"}
+{"level":"info","message":"Create new client: 5c23507c-9d10-4afc-b24f-2e679954d4e1","timestamp":"2018-03-17T21:14:06.368Z"}
+{"level":"info","message":"Create new client: c6522ed0-2072-4933-95d7-6dc2d5539863","timestamp":"2018-03-17T21:16:51.441Z"}
+{"level":"info","message":"Create new client: 2e3c53c0-7f21-4af6-9cec-20cb2a46298d","timestamp":"2018-03-17T21:16:52.373Z"}
+{"level":"info","message":"Create new client: e8a20d07-9492-40a2-9e99-7f3bb9451a3a","timestamp":"2018-03-17T21:16:53.061Z"}
+{"level":"info","message":"Create new client: 17db68f9-a0fd-404d-99b7-711367c9f347","timestamp":"2018-03-17T21:17:32.388Z"}
+{"level":"info","message":"Create new client: a5df7789-7acc-4123-91ae-dfa647b4e432","timestamp":"2018-03-17T21:35:00.397Z"}
+{"level":"info","message":"Create new client: b9cc1464-0be3-4c5d-9f03-4d431f1afe86","timestamp":"2018-03-17T21:35:04.590Z"}
+{"level":"info","message":"Create new client: e29fed58-a535-4cb3-a8c5-0f7b7d5e739e","timestamp":"2018-03-17T21:35:31.409Z"}
+{"level":"info","message":"Create new client: 83bbb3ee-1c40-4788-841c-6ffb893bb861","timestamp":"2018-03-17T21:36:30.372Z"}
+{"level":"info","message":"Create new client: 069371b5-da68-451d-9bce-2503e48cb684","timestamp":"2018-03-17T21:37:22.929Z"}
+{"level":"info","message":"Create new client: 6039d3f4-dd63-4ece-9a26-9676f9b46240","timestamp":"2018-03-17T21:38:48.391Z"}
+{"level":"info","message":"Create new client: 71fa4eb3-cc69-409d-bb6d-ba6cf6cc8718","timestamp":"2018-03-17T21:39:14.384Z"}
+{"level":"info","message":"Create new client: 87876a7e-d17f-4549-ae64-4231bd361c5c","timestamp":"2018-03-17T21:39:40.300Z"}
+{"level":"info","message":"Create new client: c25ec203-23a9-4c60-8305-c7958c4d7dc9","timestamp":"2018-03-17T21:39:47.344Z"}
+{"level":"info","message":"Create new client: 50a9e77c-67de-4cdb-95ea-7e9581457c2e","timestamp":"2018-03-17T21:41:01.407Z"}
+{"level":"info","message":"Create new client: 92aae451-ac6e-41f6-8ac4-41e07edccd93","timestamp":"2018-03-17T21:41:56.377Z"}
+{"level":"info","message":"Create new client: 03cf060a-1d3c-4328-96a7-825330194bec","timestamp":"2018-03-17T21:42:13.534Z"}
+{"level":"info","message":"Create new client: ec9dcbab-b5d7-4ed6-8829-14924fb0d522","timestamp":"2018-03-17T21:42:19.262Z"}
+{"level":"info","message":"Create new client: 7a86bed0-da61-432f-ad0d-e921921353d2","timestamp":"2018-03-17T21:43:51.479Z"}
+{"level":"info","message":"Create new client: e125f379-1ec6-4744-95ba-4117604695d6","timestamp":"2018-03-17T21:44:52.377Z"}
+{"level":"info","message":"Create new client: d8ef3c91-8e88-4592-a163-38ad2908f5ff","timestamp":"2018-03-17T21:52:02.540Z"}
+{"level":"info","message":"Create new client: 5c1a7677-d9bc-4ac6-a790-305fceeeb732","timestamp":"2018-03-17T21:53:15.440Z"}
+{"level":"info","message":"Create new client: 3bd8f528-8a11-44e2-a9b6-9a46b2451029","timestamp":"2018-03-17T21:54:12.902Z"}
+{"level":"info","message":"Create new client: 9186dbb4-e942-4ca5-8d50-9278e0683add","timestamp":"2018-03-17T21:55:02.426Z"}
+{"level":"info","message":"Create new client: 2e3be6b4-716e-4a6d-ac91-e5b538a58dea","timestamp":"2018-03-17T21:55:06.382Z"}
+{"level":"info","message":"Create new client: 4ca7a46f-c99d-401e-b5ae-dfbb1e005a65","timestamp":"2018-03-17T21:55:08.090Z"}
+{"level":"info","message":"Create new client: ccd0fe1d-ee0b-4483-8e72-d6f6c82be47c","timestamp":"2018-03-17T21:58:21.396Z"}
+{"level":"info","message":"Create new client: 61876884-7bee-4045-86d7-7a302641a249","timestamp":"2018-03-17T21:58:26.164Z"}
+{"level":"info","message":"Create new client: 0524838c-fcba-468f-95cc-27afbdca34e5","timestamp":"2018-03-17T21:59:09.385Z"}
+{"level":"info","message":"Create new client: c07928f4-102a-4568-a67c-3a46dc622bc1","timestamp":"2018-03-17T21:59:58.618Z"}
+{"level":"info","message":"Create new client: 7a7623ca-5b36-4c3a-be4d-48135fd99546","timestamp":"2018-03-17T22:01:27.389Z"}
+{"level":"info","message":"Client disconnect: c07928f4-102a-4568-a67c-3a46dc622bc1","timestamp":"2018-03-17T22:01:30.089Z"}
+{"level":"info","message":"Create new client: 0ccaf17d-f0fc-45a0-833c-a4f83b159a5b","timestamp":"2018-03-17T22:01:38.152Z"}
+{"level":"info","message":"Client disconnect: 0ccaf17d-f0fc-45a0-833c-a4f83b159a5b","timestamp":"2018-03-17T22:01:39.251Z"}
+{"level":"info","message":"Create new client: 8948ea54-933b-4a68-8fbd-6bce8515dbd8","timestamp":"2018-03-17T22:01:42.449Z"}
+{"level":"info","message":"Client disconnect: 8948ea54-933b-4a68-8fbd-6bce8515dbd8","timestamp":"2018-03-17T22:01:44.370Z"}
+{"level":"info","message":"Client disconnect: undefined","timestamp":"2018-03-17T22:01:48.918Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-03-17T22:01:48.919Z"}
+{"level":"info","message":"Create new client: 9f3337b3-ca0f-446e-a0e5-7ff3e6d7b13b","timestamp":"2018-03-17T22:01:53.920Z"}
+{"level":"info","message":"Create new client: b5808dc5-0c87-44a4-825d-f73ca30b52cf","timestamp":"2018-03-17T22:02:24.388Z"}
+{"level":"info","message":"Create new client: 4e5d1a3f-8ad9-445e-9bb1-563040ec96a2","timestamp":"2018-03-17T22:05:41.689Z"}
+{"level":"info","message":"Create new client: 4a14f1df-d3bb-430e-9e43-b39bba6bd240","timestamp":"2018-03-17T22:05:46.294Z"}
+{"level":"info","message":"Create new client: a90a7f25-10a6-4752-8f96-34c48be59782","timestamp":"2018-03-17T22:08:37.459Z"}
+{"level":"info","message":"Create new client: b5ca95dd-d4ca-441b-a99f-0ab7b1399988","timestamp":"2018-03-17T22:08:37.476Z"}
+{"level":"info","message":"Create new client: 1c0842b5-51bc-4ec8-a0dc-5ecd8e5f7a0f","timestamp":"2018-03-17T22:11:17.989Z"}
+{"level":"info","message":"Create new client: 9b11b259-509a-4e68-8eb3-812cc054e819","timestamp":"2018-03-17T22:11:19.376Z"}
+{"level":"info","message":"Create new client: 1e97eacd-f855-42ab-81d6-107263cecc61","timestamp":"2018-03-17T22:11:23.925Z"}
+{"level":"info","message":"Create new client: ccd6528a-035e-4be0-ac85-7ea9093e5fbb","timestamp":"2018-03-17T22:14:12.588Z"}
+{"level":"info","message":"Create new client: 94fa43db-7da3-4339-8432-dc6f447bf130","timestamp":"2018-03-17T22:14:13.447Z"}
+{"level":"info","message":"Create new client: ee60ebdd-6bc8-4a2c-8134-1a9b2625ede8","timestamp":"2018-03-17T22:14:21.515Z"}
+{"level":"info","message":"Create new client: a6f25a4e-8b5e-482f-9606-c96aaed2f6fe","timestamp":"2018-03-17T22:14:42.391Z"}
+{"level":"info","message":"Create new client: 0cf1b7dc-6f2a-4a49-81c8-f67eb511cd16","timestamp":"2018-03-17T22:15:21.891Z"}
+{"level":"info","message":"Create new client: f246790f-b790-4c86-87b9-b71e38285067","timestamp":"2018-03-17T22:16:54.378Z"}
+{"level":"info","message":"Create new client: e1f7bc52-9e66-4f97-b1aa-517400af29e7","timestamp":"2018-03-17T22:17:02.388Z"}
+{"level":"info","message":"Client disconnect: 0cf1b7dc-6f2a-4a49-81c8-f67eb511cd16","timestamp":"2018-03-17T22:18:19.318Z"}
+{"level":"info","message":"Client disconnect: e1f7bc52-9e66-4f97-b1aa-517400af29e7","timestamp":"2018-03-17T22:18:19.384Z"}
+{"level":"info","message":"Client disconnect: f246790f-b790-4c86-87b9-b71e38285067","timestamp":"2018-03-17T22:18:19.412Z"}
+{"level":"info","message":"Create new client: 0ca66faa-484f-47ed-9798-7581df86cdea","timestamp":"2018-03-17T22:18:24.543Z"}
+{"level":"info","message":"Create new client: ce3d6fdf-a244-463c-b6e6-98216f0ff10e","timestamp":"2018-03-17T22:18:26.535Z"}
+{"level":"info","message":"Create new client: bf029c3b-7413-41d4-8f08-1de5df4cc3fc","timestamp":"2018-03-17T22:18:26.730Z"}
+{"level":"info","message":"Create new client: d3b5450b-d24e-4fdb-8fd0-a7da0d5a5cdc","timestamp":"2018-03-17T22:18:34.676Z"}
+{"level":"info","message":"Create new client: 238eb98f-f74e-413f-aca0-784c9be16f51","timestamp":"2018-03-17T22:20:49.411Z"}
+{"level":"info","message":"Create new client: 1fd68c66-53bb-4cac-926f-10e2f5bfd804","timestamp":"2018-03-17T22:20:56.417Z"}
+{"level":"info","message":"Client disconnect: ce3d6fdf-a244-463c-b6e6-98216f0ff10e","timestamp":"2018-03-17T22:21:22.404Z"}
+{"level":"info","message":"Client disconnect: 0ca66faa-484f-47ed-9798-7581df86cdea","timestamp":"2018-03-17T22:21:22.869Z"}
+{"level":"info","message":"Client disconnect: bf029c3b-7413-41d4-8f08-1de5df4cc3fc","timestamp":"2018-03-17T22:21:22.894Z"}
+{"level":"info","message":"Client disconnect: 238eb98f-f74e-413f-aca0-784c9be16f51","timestamp":"2018-03-17T22:21:22.927Z"}
+{"level":"info","message":"Client disconnect: d3b5450b-d24e-4fdb-8fd0-a7da0d5a5cdc","timestamp":"2018-03-17T22:21:23.011Z"}
+{"level":"info","message":"Client disconnect: 1fd68c66-53bb-4cac-926f-10e2f5bfd804","timestamp":"2018-03-17T22:21:23.673Z"}
+{"level":"info","message":"Client disconnect: undefined","timestamp":"2018-03-17T22:21:26.673Z"}
+{"level":"error","message":"Can not find client undefined on disconnect","timestamp":"2018-03-17T22:21:26.694Z"}
+{"level":"info","message":"Create new client: bd641656-e5f4-4cc5-9c99-c016f7f14a9f","timestamp":"2018-03-17T22:27:00.211Z"}
+{"level":"info","message":"Create new client: 4d097224-f240-4e75-9672-68c0258005af","timestamp":"2018-03-17T22:27:00.550Z"}
+{"level":"info","message":"Create new client: beb3c66e-503b-4616-a86c-db1f3d03f642","timestamp":"2018-03-17T22:27:00.635Z"}
+{"level":"info","message":"Create new client: 19ced90b-5ecc-4a31-a7ad-2761795c75b8","timestamp":"2018-03-17T22:27:09.305Z"}
+{"level":"info","message":"Create new client: 8beaf2d8-0c6d-42d0-961a-99e6e81f5147","timestamp":"2018-03-17T22:28:09.545Z"}
+{"level":"info","message":"Create new client: cd8206ad-5b86-46d2-9a26-4293bf3a8686","timestamp":"2018-03-17T22:29:37.550Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T22:32:03.002Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T22:32:03.040Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T22:34:39.157Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T22:34:39.160Z"}
+{"level":"info","message":"Create new client: 0787b7f9-6d97-44ec-b971-fa91aac49800","timestamp":"2018-03-17T22:35:59.540Z"}
+{"level":"info","message":"Create new client: f1ad0daa-7178-494e-b0f6-512094bc61aa","timestamp":"2018-03-17T22:36:06.386Z"}
+{"level":"info","message":"Create new client: 526bbdfb-f2e6-439d-88ad-b30c227a7cf8","timestamp":"2018-03-17T22:36:13.532Z"}
+{"level":"info","message":"Create new client: 6f02c647-2d84-48f4-9c36-444738240dc4","timestamp":"2018-03-17T22:37:01.419Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T22:37:06.495Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T22:37:06.530Z"}
+{"level":"info","message":"Create new client: 43ee0d87-ec1e-4a3c-bb1d-bd82b0394d10","timestamp":"2018-03-17T22:37:37.388Z"}
+{"level":"info","message":"Create new client: a28770c8-27bf-4679-b96d-25133c607334","timestamp":"2018-03-17T22:39:42.389Z"}
+{"level":"info","message":"Create new client: 649704f0-71dd-4b25-860c-fb9f9c6284ef","timestamp":"2018-03-17T22:58:50.551Z"}
+{"level":"info","message":"Create new client: 1f3a7072-b642-4bbd-9e13-2d689da602f6","timestamp":"2018-03-17T23:01:41.408Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:01:48.391Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:01:48.394Z"}
+{"level":"info","message":"Create new client: d5d4fe12-3d0a-48d5-a96a-72ad0498ecf0","timestamp":"2018-03-17T23:02:49.381Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:02:57.573Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:02:57.576Z"}
+{"level":"info","message":"Create new client: 14337756-1cce-4edb-bddb-34a07aedc657","timestamp":"2018-03-17T23:02:58.383Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:13:25.270Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:13:25.284Z"}
+{"level":"info","message":"Create new client: 6ac5a135-f474-4558-9eeb-1309c71e8836","timestamp":"2018-03-17T23:16:38.715Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:17:52.572Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:17:52.573Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:21:44.508Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:21:44.528Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:23:29.515Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:23:29.518Z"}
+{"level":"info","message":"Client disconnect: 6ac5a135-f474-4558-9eeb-1309c71e8836","timestamp":"2018-03-17T23:23:35.084Z"}
+{"level":"info","message":"Create new client: d33ed69e-5f73-43b4-a1fe-8e9342ff91b3","timestamp":"2018-03-17T23:23:37.351Z"}
+{"level":"info","message":"Client disconnect: d33ed69e-5f73-43b4-a1fe-8e9342ff91b3","timestamp":"2018-03-17T23:23:40.319Z"}
+{"level":"info","message":"Create new client: 4b295799-57d2-4484-a126-80d2ff41b754","timestamp":"2018-03-17T23:23:42.066Z"}
+{"level":"info","message":"Client disconnect: 14337756-1cce-4edb-bddb-34a07aedc657","timestamp":"2018-03-17T23:25:33.483Z"}
+{"level":"info","message":"Create new client: 5f409372-ecfa-461b-acd5-7d9f24e60cae","timestamp":"2018-03-17T23:25:36.309Z"}
+{"level":"info","message":"Create new client: fc9037cf-3bc5-4e2c-b3fb-3cc67b20a186","timestamp":"2018-03-17T23:28:51.769Z"}
+{"level":"info","message":"Client disconnect: fc9037cf-3bc5-4e2c-b3fb-3cc67b20a186","timestamp":"2018-03-17T23:28:54.338Z"}
+{"level":"info","message":"Client disconnect: d5d4fe12-3d0a-48d5-a96a-72ad0498ecf0","timestamp":"2018-03-17T23:28:56.540Z"}
+{"level":"info","message":"Client disconnect: 1f3a7072-b642-4bbd-9e13-2d689da602f6","timestamp":"2018-03-17T23:28:56.548Z"}
+{"level":"info","message":"Client disconnect: 4b295799-57d2-4484-a126-80d2ff41b754","timestamp":"2018-03-17T23:28:56.573Z"}
+{"level":"info","message":"Client disconnect: 5f409372-ecfa-461b-acd5-7d9f24e60cae","timestamp":"2018-03-17T23:28:56.623Z"}
+{"level":"info","message":"Client disconnect: 649704f0-71dd-4b25-860c-fb9f9c6284ef","timestamp":"2018-03-17T23:29:08.803Z"}
+{"level":"info","message":"Create new client: 270ddd13-8771-4e2f-9756-22595e93466c","timestamp":"2018-03-17T23:29:20.352Z"}
+{"level":"info","message":"Client disconnect: 270ddd13-8771-4e2f-9756-22595e93466c","timestamp":"2018-03-17T23:29:28.495Z"}
+{"level":"info","message":"Create new client: 51cdec68-5902-450c-8655-77bac6d51c83","timestamp":"2018-03-17T23:29:29.364Z"}
+{"level":"info","message":"Client disconnect: 51cdec68-5902-450c-8655-77bac6d51c83","timestamp":"2018-03-17T23:29:36.564Z"}
+{"level":"info","message":"Create new client: aebe50fd-f955-4b5c-b33f-0d8bd8a2991a","timestamp":"2018-03-17T23:29:36.977Z"}
+{"level":"info","message":"Create new client: b8e10c5c-4636-43da-be5e-898548c0d317","timestamp":"2018-03-17T23:30:06.595Z"}
+{"level":"info","message":"Client disconnect: b8e10c5c-4636-43da-be5e-898548c0d317","timestamp":"2018-03-17T23:30:12.563Z"}
+{"level":"info","message":"Create new client: 48d6268e-d3dd-467f-bba4-f21bdedb1ada","timestamp":"2018-03-17T23:30:13.270Z"}
+{"level":"info","message":"Client disconnect: 48d6268e-d3dd-467f-bba4-f21bdedb1ada","timestamp":"2018-03-17T23:30:35.331Z"}
+{"level":"info","message":"Create new client: 0b21dfca-203e-4717-81df-69b27317ea11","timestamp":"2018-03-17T23:30:36.494Z"}
+{"level":"info","message":"Client disconnect: 0b21dfca-203e-4717-81df-69b27317ea11","timestamp":"2018-03-17T23:32:00.691Z"}
+{"level":"info","message":"Create new client: c1071e4b-0ef2-4089-8cce-84bc5f7b2f1c","timestamp":"2018-03-17T23:32:01.971Z"}
+{"level":"info","message":"Create new client: ced34eaf-6637-49e8-9220-250dab9a9333","timestamp":"2018-03-17T23:36:27.908Z"}
+{"level":"info","message":"Create new client: 873a5332-d596-4484-9eb7-8540872e2070","timestamp":"2018-03-17T23:36:59.019Z"}
+{"level":"info","message":"Client disconnect: 873a5332-d596-4484-9eb7-8540872e2070","timestamp":"2018-03-17T23:37:04.034Z"}
+{"level":"info","message":"Create new client: 6457c57b-3e3d-461c-bed5-c9fa868fc9a7","timestamp":"2018-03-17T23:37:19.609Z"}
+{"level":"info","message":"Client disconnect: 6457c57b-3e3d-461c-bed5-c9fa868fc9a7","timestamp":"2018-03-17T23:37:30.634Z"}
+{"level":"info","message":"Create new client: 59b6f958-f94e-4add-92a2-63145799c3d8","timestamp":"2018-03-17T23:37:31.409Z"}
+{"level":"info","message":"Client disconnect: 59b6f958-f94e-4add-92a2-63145799c3d8","timestamp":"2018-03-17T23:37:36.539Z"}
+{"level":"info","message":"Create new client: 9c13edee-e0a0-45a1-8fcc-89603ce69b0c","timestamp":"2018-03-17T23:37:36.856Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-17T23:38:08.215Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-17T23:38:08.221Z"}
+{"level":"info","message":"Client disconnect: 9c13edee-e0a0-45a1-8fcc-89603ce69b0c","timestamp":"2018-03-17T23:38:13.675Z"}
+{"level":"info","message":"Create new client: 09fe5288-6915-46a1-8a99-a12c5f9c4aab","timestamp":"2018-03-17T23:38:14.384Z"}
+{"level":"info","message":"Client disconnect: 09fe5288-6915-46a1-8a99-a12c5f9c4aab","timestamp":"2018-03-17T23:38:18.377Z"}
+{"level":"info","message":"Create new client: 93efceb9-8d6f-4fca-844c-89ba1261482c","timestamp":"2018-03-17T23:38:19.035Z"}
+{"level":"info","message":"Client disconnect: 93efceb9-8d6f-4fca-844c-89ba1261482c","timestamp":"2018-03-17T23:38:20.835Z"}
+{"level":"info","message":"Create new client: 995f0741-fcc0-40e5-8f39-e55be1c6c6ba","timestamp":"2018-03-17T23:38:21.156Z"}
+{"level":"info","message":"Client disconnect: 995f0741-fcc0-40e5-8f39-e55be1c6c6ba","timestamp":"2018-03-17T23:38:23.175Z"}
+{"level":"info","message":"Create new client: dd3fab4e-8be9-4aaf-bde4-49e3783a4ccc","timestamp":"2018-03-17T23:38:23.569Z"}
+{"level":"info","message":"Client disconnect: dd3fab4e-8be9-4aaf-bde4-49e3783a4ccc","timestamp":"2018-03-17T23:38:25.062Z"}
+{"level":"info","message":"Create new client: b4e71ac7-7003-4d0a-9d0d-4bf4202f0791","timestamp":"2018-03-17T23:38:25.370Z"}
+{"level":"info","message":"Client disconnect: b4e71ac7-7003-4d0a-9d0d-4bf4202f0791","timestamp":"2018-03-17T23:38:26.925Z"}
+{"level":"info","message":"Create new client: 44e9bdf5-a3a9-478a-a163-ca8e764fd272","timestamp":"2018-03-17T23:38:27.300Z"}
+{"level":"info","message":"Client disconnect: 44e9bdf5-a3a9-478a-a163-ca8e764fd272","timestamp":"2018-03-17T23:38:28.642Z"}
+{"level":"info","message":"Create new client: b9ae57fa-22fb-4c07-8084-2c752fd789ba","timestamp":"2018-03-17T23:38:28.960Z"}
+{"level":"info","message":"Client disconnect: b9ae57fa-22fb-4c07-8084-2c752fd789ba","timestamp":"2018-03-17T23:38:30.103Z"}
+{"level":"info","message":"Create new client: c0a5cd78-71a4-4837-8437-7c98eadc6ab7","timestamp":"2018-03-17T23:38:30.470Z"}
+{"level":"info","message":"Client disconnect: c0a5cd78-71a4-4837-8437-7c98eadc6ab7","timestamp":"2018-03-17T23:38:31.315Z"}
+{"level":"info","message":"Create new client: d3c90461-f8c5-4f41-b3f1-6cc920402dd5","timestamp":"2018-03-17T23:38:31.625Z"}
+{"level":"info","message":"Client disconnect: d3c90461-f8c5-4f41-b3f1-6cc920402dd5","timestamp":"2018-03-17T23:38:32.560Z"}
+{"level":"info","message":"Create new client: 7fdd15b3-ba82-4012-b801-89ed2f110c9a","timestamp":"2018-03-17T23:38:32.913Z"}

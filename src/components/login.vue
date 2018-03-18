@@ -1,6 +1,6 @@
 <template>
     <v-layout row justify-center>
-        <v-dialog v-model="parse" fullscreen transition="dialog-bottom-transition" :overlay="false">
+        <v-dialog value="dialog" fullscreen transition="dialog-bottom-transition" :overlay="false">
             <v-card>
                 <v-toolbar dark color="primary">
                     <v-btn icon @click.native="dialog = false" dark>
@@ -9,7 +9,7 @@
                     <v-toolbar-title>Login</v-toolbar-title>
                     <v-spacer></v-spacer>
                     <v-toolbar-items>
-                        <v-btn dark flat @click.native="dialog = false" v-on:click="signup">{{login?'Login':'Signup'}}</v-btn>
+                        <v-btn dark flat @click.native="dialog = false" v-on:click="sign_up">{{login?'Login':'Signup'}}</v-btn>
                     </v-toolbar-items>
                 </v-toolbar>
                 <v-layout row wrap>
@@ -17,7 +17,7 @@
 
                     </v-flex>
                     <v-flex xs4 id="login-form">
-                        <div v-if="login">
+                        <div v-if="login_view">
                             <v-form >
                                 <v-text-field
                                         class="login-input"
@@ -41,18 +41,12 @@
                         </div>
                         </div>
 
-                        <div v-if="!login">
+                        <div v-if="!login_view">
                             <v-form >
                                 <v-text-field
                                         class="login-input"
                                         label="Email"
                                         v-model="user.email"
-                                        required
-                                ></v-text-field>
-                                <v-text-field
-                                        class="login-input"
-                                        label="User Name"
-                                        v-model="user.username"
                                         required
                                 ></v-text-field>
                                 <v-text-field
@@ -99,12 +93,12 @@
 <script>
     export default {
         name: "login",
-        parse_class:"login",
+        //parse_class:"login",
         params:['login_dialog'],
             data () {
                 return {
-                    login:true,
-                    dialog: false,
+                    login_view:true,
+                    dialog: true,
                     notifications: false,
                     sound: true,
                     widgets: false,
@@ -113,29 +107,31 @@
             },
         created(){
             console.log('Login created')
-
         },
         methods:{
             toge_login(){
                 console.log('togelelogin')
-                this.login = !this.login
+                this.login_view = !this.login_view
             },
-            signup(){
-                let user = new this.parse.User()
-                Object.keys(this.user).forEach(k =>{
-                    console.log(k,this.user[k])
-                    user.set(k,this.user[k])
-                } )
-                user.signUp(null,{
-                    success(new_user){
-                        console.log('Hooray Im signed up',new_user)
-                        console.log('Current User',this.parse.User.current())
-                    },
-                    error(failed_user,error){
-                        console.log('What happened',error)
-                        alert(error.message)
-                    }
-                })
+           sign_up(){
+                  if(this.login_view){
+                      this.login({...this.user})
+                          .then(this.user_registered)
+                          .catch(this.user_registered)
+                  }else{
+                      this.signup({...this.user})
+                          .then(this.user_registered)
+                          .catch(e => {
+                              console.log(this.user)
+                              this.$router.replace('/')
+                          })
+
+                  }
+
+            },
+            user_registered(new_user){
+                console.log('Result',new_user)
+                this.$router.replace('/')
             }
         }
 

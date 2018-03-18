@@ -7,14 +7,11 @@ import router from './router'
 
 Vue.use(Vuetify)
 
-import Acl from 'vue-acl'
-Vue.use( Acl, { router, init: 'public' , save: true } )
-
-Vue.mixin(parseMixin)
+Vue.mixin(parseMixin({router}))
 
 
 new Vue({
   el: '#app',
     router:router,
   render: h => h(App)
-})
+}).$mount('#app')

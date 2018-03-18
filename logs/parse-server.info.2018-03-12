@@ -1,0 +1,275 @@
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:29:46.060Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:29:46.070Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:33:45.148Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:33:45.155Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:37:59.646Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:37:59.648Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T17:37:59.649Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T17:37:59.653Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:39:56.893Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:39:56.903Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:40:24.207Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:40:24.213Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:40:51.065Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:40:51.078Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:41:26.035Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:41:26.046Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:43:00.459Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:43:00.470Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T17:44:21.482Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T17:44:21.493Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:44:21.497Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:44:21.501Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:44:59.370Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:44:59.374Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:46:18.903Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:46:18.916Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:47:55.226Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:47:55.238Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:49:40.694Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:49:40.707Z"}
+{"error":{"code":125,"message":"Email address format is invalid."},"level":"error","message":"Error generating response. ParseError { code: 125, message: 'Email address format is invalid.' }","timestamp":"2018-03-12T17:50:38.926Z"}
+{"code":125,"message":"Email address format is invalid.","level":"error","timestamp":"2018-03-12T17:50:38.932Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:51:54.475Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:51:54.476Z"}
+{"error":{"code":202,"message":"Account already exists for this username."},"level":"error","message":"Error generating response. ParseError {\n  code: 202,\n  message: 'Account already exists for this username.' }","timestamp":"2018-03-12T17:52:57.924Z"}
+{"code":202,"message":"Account already exists for this username.","level":"error","timestamp":"2018-03-12T17:52:57.929Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:54:27.219Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:54:27.220Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T17:54:27.221Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T17:54:27.225Z"}
+{"error":{"code":103,"message":"Class user does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class user does not exist.' }","timestamp":"2018-03-12T17:59:08.756Z"}
+{"code":103,"message":"Class user does not exist.","level":"error","timestamp":"2018-03-12T17:59:08.758Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T17:59:08.761Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T17:59:08.772Z"}
+{"error":{"code":103,"message":"Class user does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class user does not exist.' }","timestamp":"2018-03-12T18:01:18.441Z"}
+{"code":103,"message":"Class user does not exist.","level":"error","timestamp":"2018-03-12T18:01:18.444Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:01:18.446Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:01:18.448Z"}
+{"error":{"code":103,"message":"Class user does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class user does not exist.' }","timestamp":"2018-03-12T18:01:29.986Z"}
+{"code":103,"message":"Class user does not exist.","level":"error","timestamp":"2018-03-12T18:01:30.003Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:01:30.009Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:01:30.029Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:01:30.043Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:01:30.052Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:02:44.010Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:02:44.017Z"}
+{"level":"info","message":"Create new client: 4a9c3b5b-926c-4c1b-bcd8-0a6cd5519623","timestamp":"2018-03-12T18:02:44.092Z"}
+{"level":"info","message":"Client disconnect: 4a9c3b5b-926c-4c1b-bcd8-0a6cd5519623","timestamp":"2018-03-12T18:02:59.377Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:03:00.871Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:03:00.877Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:03:00.885Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:03:00.886Z"}
+{"level":"info","message":"Create new client: 2f261f46-b03f-4309-9d3e-b55ec99164c7","timestamp":"2018-03-12T18:03:01.396Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:03:55.500Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:03:55.504Z"}
+{"level":"info","message":"Client disconnect: 2f261f46-b03f-4309-9d3e-b55ec99164c7","timestamp":"2018-03-12T18:04:02.822Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:04:04.322Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:04:04.334Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:04:04.341Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:04:04.352Z"}
+{"level":"info","message":"Create new client: 3d478a2a-c793-41d9-948a-b8e0985faa2f","timestamp":"2018-03-12T18:04:04.939Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:05:29.247Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:05:29.260Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:05:40.092Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:05:40.093Z"}
+{"level":"info","message":"Client disconnect: 3d478a2a-c793-41d9-948a-b8e0985faa2f","timestamp":"2018-03-12T18:05:57.407Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:05:59.021Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:05:59.033Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:05:59.058Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:05:59.078Z"}
+{"level":"info","message":"Create new client: 8fbda4af-6abf-4e29-a2c0-ae2b27e48709","timestamp":"2018-03-12T18:05:59.191Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:06:29.075Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:06:29.088Z"}
+{"level":"info","message":"Client disconnect: 8fbda4af-6abf-4e29-a2c0-ae2b27e48709","timestamp":"2018-03-12T18:06:58.530Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:07:00.047Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:07:00.063Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:07:00.077Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:07:00.085Z"}
+{"level":"info","message":"Create new client: f67d91f4-ef5f-46be-8aa4-09248523d4d6","timestamp":"2018-03-12T18:07:00.621Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:07:30.534Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:07:30.543Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:07:57.334Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:07:57.348Z"}
+{"level":"info","message":"Client disconnect: f67d91f4-ef5f-46be-8aa4-09248523d4d6","timestamp":"2018-03-12T18:08:11.556Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:08:13.077Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:08:13.084Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:08:13.090Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:08:13.091Z"}
+{"level":"info","message":"Create new client: d8da08da-2216-4c16-aef5-583d92546c52","timestamp":"2018-03-12T18:08:13.132Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:11:08.041Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:11:08.047Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:11:09.001Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:11:09.006Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:11:34.403Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:11:34.406Z"}
+{"level":"info","message":"Create new client: 00f884b4-1714-4779-9bef-0004598ee417","timestamp":"2018-03-12T18:11:34.476Z"}
+{"level":"info","message":"Client disconnect: 00f884b4-1714-4779-9bef-0004598ee417","timestamp":"2018-03-12T18:11:40.826Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:11:42.302Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:11:42.304Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:11:42.328Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:11:42.330Z"}
+{"level":"info","message":"Create new client: 55be1c2c-a344-4e88-9dcf-417a8b99a330","timestamp":"2018-03-12T18:11:42.438Z"}
+{"level":"info","message":"Client disconnect: 55be1c2c-a344-4e88-9dcf-417a8b99a330","timestamp":"2018-03-12T18:12:04.176Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:12:05.591Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:12:05.595Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:12:05.625Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:12:05.632Z"}
+{"level":"info","message":"Create new client: 6676243b-0643-40cc-a9a6-4bb01e92444f","timestamp":"2018-03-12T18:12:05.699Z"}
+{"level":"info","message":"Client disconnect: 6676243b-0643-40cc-a9a6-4bb01e92444f","timestamp":"2018-03-12T18:12:38.662Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:12:40.224Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:12:40.227Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:12:40.236Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:12:40.238Z"}
+{"level":"info","message":"Create new client: b9d39d30-fcbc-4899-a230-4674db39b92c","timestamp":"2018-03-12T18:12:40.756Z"}
+{"level":"info","message":"Client disconnect: b9d39d30-fcbc-4899-a230-4674db39b92c","timestamp":"2018-03-12T18:12:45.653Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:12:46.878Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:12:46.889Z"}
+{"level":"info","message":"Create new client: 0f4b6e95-7780-4bba-9ab2-0d2be1eb4049","timestamp":"2018-03-12T18:12:46.933Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:13:36.196Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:13:36.203Z"}
+{"level":"info","message":"Create new client: 41c9a5ff-27c0-49e9-b410-fad47e87139e","timestamp":"2018-03-12T18:13:36.266Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:13:37.508Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:13:37.511Z"}
+{"level":"info","message":"Client disconnect: 41c9a5ff-27c0-49e9-b410-fad47e87139e","timestamp":"2018-03-12T18:13:41.291Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:13:42.676Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:13:42.703Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:13:42.761Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:13:42.772Z"}
+{"level":"info","message":"Create new client: 3773fb02-adf8-4c47-8f6f-f25632d2a699","timestamp":"2018-03-12T18:13:43.322Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:16:23.527Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:16:23.531Z"}
+{"level":"info","message":"Client disconnect: 3773fb02-adf8-4c47-8f6f-f25632d2a699","timestamp":"2018-03-12T18:16:28.828Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:16:30.330Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:16:30.336Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:16:30.349Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:16:30.357Z"}
+{"level":"info","message":"Create new client: aa7c1971-07e3-4167-88c2-4dc188b30840","timestamp":"2018-03-12T18:16:30.498Z"}
+{"level":"info","message":"Client disconnect: aa7c1971-07e3-4167-88c2-4dc188b30840","timestamp":"2018-03-12T18:18:50.238Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:18:52.070Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:18:52.073Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:18:52.076Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:18:52.078Z"}
+{"level":"info","message":"Create new client: c84c9de4-b7d9-4843-83ec-c59c20e34358","timestamp":"2018-03-12T18:18:52.214Z"}
+{"level":"info","message":"Create new client: a077ba34-3cba-43d6-91af-0b744db2ccfa","timestamp":"2018-03-12T18:19:08.468Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:19:08.662Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:19:08.666Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:19:10.046Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:19:10.050Z"}
+{"level":"info","message":"Client disconnect: a077ba34-3cba-43d6-91af-0b744db2ccfa","timestamp":"2018-03-12T18:19:17.129Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:19:18.520Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:19:18.525Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:19:18.549Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:19:18.558Z"}
+{"level":"info","message":"Create new client: cc0e1e21-0747-4fa3-b304-94df871c0113","timestamp":"2018-03-12T18:19:18.638Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:27:42.699Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:27:42.730Z"}
+{"level":"info","message":"Create new client: c3105c14-72a7-4a8b-ab11-b133ca186a85","timestamp":"2018-03-12T18:27:43.201Z"}
+{"level":"info","message":"Client disconnect: c3105c14-72a7-4a8b-ab11-b133ca186a85","timestamp":"2018-03-12T18:27:56.939Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:27:58.245Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:27:58.263Z"}
+{"level":"info","message":"Create new client: a9b26a86-22e3-4707-aa6c-b9a221045f60","timestamp":"2018-03-12T18:27:58.348Z"}
+{"level":"info","message":"Client disconnect: a9b26a86-22e3-4707-aa6c-b9a221045f60","timestamp":"2018-03-12T18:28:02.756Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:28:04.090Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:28:04.094Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:28:04.108Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:28:04.111Z"}
+{"level":"info","message":"Create new client: cda8f242-f11c-4bfb-ac68-66cc99cb0c65","timestamp":"2018-03-12T18:28:04.182Z"}
+{"level":"info","message":"Client disconnect: cda8f242-f11c-4bfb-ac68-66cc99cb0c65","timestamp":"2018-03-12T18:28:09.958Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:28:11.343Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:28:11.356Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:28:11.385Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:28:11.388Z"}
+{"level":"info","message":"Create new client: 0d5ae114-d434-4d04-86fb-1927e93add1f","timestamp":"2018-03-12T18:28:11.521Z"}
+{"level":"info","message":"Client disconnect: 0d5ae114-d434-4d04-86fb-1927e93add1f","timestamp":"2018-03-12T18:28:51.070Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:28:52.400Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:28:52.409Z"}
+{"level":"info","message":"Create new client: b0b460d2-81b3-4dc7-a525-5df9d91a0fff","timestamp":"2018-03-12T18:28:52.493Z"}
+{"level":"info","message":"Create new client: f5dacb62-ba99-44f2-a433-15b38264f129","timestamp":"2018-03-12T18:29:04.617Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:29:04.780Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:29:04.783Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:29:05.085Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:29:05.089Z"}
+{"level":"info","message":"Client disconnect: f5dacb62-ba99-44f2-a433-15b38264f129","timestamp":"2018-03-12T18:29:08.030Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:29:09.372Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:29:09.375Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:29:09.430Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:29:09.441Z"}
+{"level":"info","message":"Create new client: 0d3ebbf3-f28c-4af9-b4a4-dacf239d2454","timestamp":"2018-03-12T18:29:09.476Z"}
+{"level":"info","message":"Client disconnect: 0d3ebbf3-f28c-4af9-b4a4-dacf239d2454","timestamp":"2018-03-12T18:29:14.699Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:29:16.016Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:29:16.040Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:29:16.082Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:29:16.104Z"}
+{"level":"info","message":"Create new client: 347a4527-148e-4afd-9398-a741ab0ac816","timestamp":"2018-03-12T18:29:16.197Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:31:04.383Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:31:04.407Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:31:04.462Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:31:04.467Z"}
+{"level":"info","message":"Create new client: dfca39c3-dcca-4363-915c-ae70c3c73023","timestamp":"2018-03-12T18:31:04.501Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:31:55.656Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:31:55.667Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:31:55.687Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:31:55.693Z"}
+{"level":"info","message":"Create new client: d77d1e45-3d12-45c6-9c08-17518ae03370","timestamp":"2018-03-12T18:31:56.171Z"}
+{"level":"info","message":"Client disconnect: d77d1e45-3d12-45c6-9c08-17518ae03370","timestamp":"2018-03-12T18:32:02.439Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:32:03.760Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:32:03.763Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:32:03.824Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:32:03.839Z"}
+{"level":"info","message":"Create new client: 2bbc0d46-97e1-4822-a6bd-aeb6228d9750","timestamp":"2018-03-12T18:32:03.893Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:32:35.684Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:32:35.699Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:32:35.720Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:32:35.728Z"}
+{"level":"info","message":"Create new client: fcf9a225-592c-46fe-9175-d6ff0b52bc90","timestamp":"2018-03-12T18:32:36.205Z"}
+{"level":"info","message":"Client disconnect: fcf9a225-592c-46fe-9175-d6ff0b52bc90","timestamp":"2018-03-12T18:33:07.391Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:33:08.806Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:33:08.810Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:33:08.812Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:33:08.818Z"}
+{"level":"info","message":"Create new client: a46b2740-460b-4010-a752-1bec3bfac221","timestamp":"2018-03-12T18:33:08.889Z"}
+{"level":"info","message":"Client disconnect: a46b2740-460b-4010-a752-1bec3bfac221","timestamp":"2018-03-12T18:33:32.419Z"}
+{"error":{"code":103,"message":"Class main does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class main does not exist.' }","timestamp":"2018-03-12T18:33:33.822Z"}
+{"code":103,"message":"Class main does not exist.","level":"error","timestamp":"2018-03-12T18:33:33.825Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:33:33.842Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:33:33.851Z"}
+{"level":"info","message":"Create new client: 99b0c96c-dcdd-45dc-a78f-23479f0abe16","timestamp":"2018-03-12T18:33:33.955Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:37:14.793Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:37:14.802Z"}
+{"level":"info","message":"Create new client: 8340aedf-9938-4299-bbbc-8bee8216b413","timestamp":"2018-03-12T18:37:15.443Z"}
+{"level":"info","message":"Client disconnect: 8340aedf-9938-4299-bbbc-8bee8216b413","timestamp":"2018-03-12T18:37:24.566Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:37:25.903Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:37:25.909Z"}
+{"level":"info","message":"Create new client: f53cd0e6-9583-49cd-9c1d-36e7479f7fa3","timestamp":"2018-03-12T18:37:26.071Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:40:42.551Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:40:42.554Z"}
+{"level":"info","message":"Client disconnect: f53cd0e6-9583-49cd-9c1d-36e7479f7fa3","timestamp":"2018-03-12T18:40:50.838Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:40:52.309Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:40:52.311Z"}
+{"level":"info","message":"Create new client: 9b37d4bf-5467-4f59-8c35-34cfc72b4ff6","timestamp":"2018-03-12T18:40:52.374Z"}
+{"level":"info","message":"Create new client: d05f359b-bc61-416b-ab85-6c61eaedf9dc","timestamp":"2018-03-12T18:43:32.878Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:43:33.540Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:43:33.543Z"}
+{"level":"info","message":"Client disconnect: d05f359b-bc61-416b-ab85-6c61eaedf9dc","timestamp":"2018-03-12T18:43:36.211Z"}
+{"level":"info","message":"Create new client: 10d20ffc-c937-486e-966d-23f24da17971","timestamp":"2018-03-12T18:43:37.642Z"}
+{"level":"info","message":"Client disconnect: 10d20ffc-c937-486e-966d-23f24da17971","timestamp":"2018-03-12T18:43:42.895Z"}
+{"level":"info","message":"Create new client: 7626de54-656d-4d24-a131-8fcc233ec8a1","timestamp":"2018-03-12T18:43:44.239Z"}
+{"level":"info","message":"Client disconnect: 7626de54-656d-4d24-a131-8fcc233ec8a1","timestamp":"2018-03-12T18:43:51.299Z"}
+{"level":"info","message":"Create new client: 7ba0e0fa-7311-4bfa-9830-7b5f01cbf891","timestamp":"2018-03-12T18:43:52.602Z"}
+{"level":"info","message":"Client disconnect: 7ba0e0fa-7311-4bfa-9830-7b5f01cbf891","timestamp":"2018-03-12T18:44:22.558Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:44:23.360Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:44:23.363Z"}
+{"level":"info","message":"Create new client: adc451b0-41aa-4acf-a69f-ba20492e5c7f","timestamp":"2018-03-12T18:44:23.777Z"}
+{"level":"info","message":"Client disconnect: adc451b0-41aa-4acf-a69f-ba20492e5c7f","timestamp":"2018-03-12T18:44:41.052Z"}
+{"level":"info","message":"Create new client: 862fe169-3dfa-47da-a93d-f4cfba7dd7e5","timestamp":"2018-03-12T18:44:42.208Z"}
+{"level":"info","message":"Client disconnect: 862fe169-3dfa-47da-a93d-f4cfba7dd7e5","timestamp":"2018-03-12T18:45:16.317Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:45:17.102Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:45:17.104Z"}
+{"level":"info","message":"Create new client: c4703055-0341-428e-97e3-2309377ee86c","timestamp":"2018-03-12T18:45:17.538Z"}
+{"level":"info","message":"Client disconnect: c4703055-0341-428e-97e3-2309377ee86c","timestamp":"2018-03-12T18:45:21.329Z"}
+{"level":"info","message":"Create new client: 6b40df46-1501-48b1-9ee3-0bd9705ea4d6","timestamp":"2018-03-12T18:45:21.827Z"}
+{"level":"info","message":"Client disconnect: 6b40df46-1501-48b1-9ee3-0bd9705ea4d6","timestamp":"2018-03-12T18:57:04.054Z"}
+{"error":{"code":103,"message":"Class login does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class login does not exist.' }","timestamp":"2018-03-12T18:57:07.572Z"}
+{"code":103,"message":"Class login does not exist.","level":"error","timestamp":"2018-03-12T18:57:07.585Z"}
+{"level":"info","message":"Create new client: 8f246b04-785c-4e24-86b5-5005cbc7065a","timestamp":"2018-03-12T18:57:09.434Z"}

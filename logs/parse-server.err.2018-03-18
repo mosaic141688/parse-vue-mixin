@@ -1,0 +1,13 @@
+{"error":{"status":403,"message":"unauthorized: master key is required"},"level":"error","message":"Error generating response. { Error: unauthorized: master key is required\n    at promiseEnforceMasterKeyAccess (/home/sihle/Projects/parse-vue-mixin/node_modules/parse-server/lib/middlewares.js:333:19)\n    at promise.then (/home/sihle/Projects/parse-vue-mixin/node_modules/parse-server/lib/PromiseRouter.js:90:20)\n    at <anonymous> status: 403, message: 'unauthorized: master key is required' }","timestamp":"2018-03-18T01:13:45.543Z"}
+{"error":{"code":203,"message":"Account already exists for this email address."},"level":"error","message":"Error generating response. ParseError {\n  code: 203,\n  message: 'Account already exists for this email address.' }","timestamp":"2018-03-18T14:52:36.195Z"}
+{"code":203,"message":"Account already exists for this email address.","level":"error","timestamp":"2018-03-18T14:52:36.199Z"}
+{"error":{"code":203,"message":"Account already exists for this email address."},"level":"error","message":"Error generating response. ParseError {\n  code: 203,\n  message: 'Account already exists for this email address.' }","timestamp":"2018-03-18T14:54:13.484Z"}
+{"code":203,"message":"Account already exists for this email address.","level":"error","timestamp":"2018-03-18T14:54:13.486Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-18T14:57:45.811Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-18T14:57:45.812Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-18T15:00:25.084Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-18T15:00:25.086Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-18T15:01:00.290Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-18T15:01:00.291Z"}
+{"error":{"code":203,"message":"Account already exists for this email address."},"level":"error","message":"Error generating response. ParseError {\n  code: 203,\n  message: 'Account already exists for this email address.' }","timestamp":"2018-03-18T15:01:23.979Z"}
+{"code":203,"message":"Account already exists for this email address.","level":"error","timestamp":"2018-03-18T15:01:23.982Z"}

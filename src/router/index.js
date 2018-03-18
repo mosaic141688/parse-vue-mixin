@@ -14,55 +14,38 @@ import Vue from 'vue'
 Vue.use(VueRouter)
 
 // Instantiate `router`
-export default
+const router =
      new VueRouter({
         routes:[
             {
                 path: '/',
                 name: 'home',
-                component: agents,
-                meta: {
-                    permission: 'home',
-                    fail: '/login'
-                }
+                component: agents
             },
             {
                 path: '/Agents',
                 name: 'agent',
-                component: agents,
-                meta: {
-                    permission: 'agents',
-                    fail: '/login'
-                }
+                component: agents
             },
             {
                 path: '/Queues',
                 name:'queues',
-                component:queues,
-                meta: {
-                    permission: 'admin',
-                    fail: '/login'
-                }
+                component:queues
             },
             {
                 path: '/Profile',
                 name:'profile',
-                component:account,
-                meta: {
-                    permission: 'admin',
-                    fail: '/login'
-                }
+                component:account
             },
             {
                 path: '/login',
                 name:'Login',
-                component:login,
-                meta: {
-                    permission: 'public',
-                    fail: '/login'
-                }
+                component:login
             }
         ]
         ,
         mode: 'history'
     })
+
+
+export default router
