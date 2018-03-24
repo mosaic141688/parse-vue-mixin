@@ -45,6 +45,7 @@ const parseMixin = function({router}){
             getRoles(){
                 var Role
             }
+
         ,
             init_parse: function () {
                 console.log('init parse',this.$options.parse_class)
@@ -109,6 +110,15 @@ const parseMixin = function({router}){
                     })
 
                 }))
+
+            },
+            sign_out(){
+                return new Promise(((resolve, reject) =>{
+                    Parse.User.logOut()
+                        .then(resolve)
+                        .catch(reject)
+
+                } ))
 
             },
             signup(user){

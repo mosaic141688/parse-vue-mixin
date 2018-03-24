@@ -117,12 +117,13 @@
                   if(this.login_view){
                       this.login({...this.user})
                           .then(this.user_registered)
-                          .catch(this.user_registered)
+                          .catch(this.login_failed)
                   }else{
                       this.signup({...this.user})
                           .then(this.user_registered)
                           .catch(e => {
                               console.log(this.user)
+                              alert(e.message)
                               this.$router.replace('/')
                           })
 
@@ -132,6 +133,9 @@
             user_registered(new_user){
                 console.log('Result',new_user)
                 this.$router.replace('/')
+            },
+            login_failed(error){
+                alert(error.message)
             }
         }
 
