@@ -11,7 +11,9 @@
                 <v-list-tile
                         value="true"
                         v-for="(item, i) in items"
+                        :to="item.route"
                         :key="i"
+                        
                 >
                     <v-list-tile-action>
                         <v-icon v-html="item.icon"></v-icon>
@@ -42,9 +44,7 @@
         <v-content>
             <v-container fluid>
                 <v-slide-y-transition mode="out-in">
-                    <v-layout column align-center>
                         <router-view></router-view>
-                    </v-layout>
                 </v-slide-y-transition>
             </v-container>
         </v-content>
@@ -102,9 +102,11 @@
                 drawer: true,
                 fixed: false,
                 items: [
-                    {icon: 'home', title: 'Home'},
-                    {icon: 'home', title: 'Events'},
-                    {icon: 'home', title: 'Artists'}
+                    {icon: 'dashboard', title: 'Dashboard',route:'dashboard'},
+                    {icon: 'people', title: 'Agents',route:'agents'},
+                    {icon: 'home', title: 'Service',route:'service'},
+                    {icon:'contacts', title:'Queues',route:'queues'},
+                    {icon:'settings', title:'Profile',route:'profile'}
 
                 ],
                 right_menu_items: [
@@ -119,7 +121,7 @@
                 miniVariant: false,
                 right: true,
                 rightDrawer: false,
-                title: 'SEEMA'
+                title: 'Title'
             }
         },
         computed: {

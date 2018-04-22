@@ -1,0 +1,39 @@
+{"level":"info","message":"Create new client: 85f6b41d-4d5e-40ae-9bc0-b4c6f8af22b9","timestamp":"2018-03-31T17:24:40.423Z"}
+{"level":"info","message":"Create new client: b51060e7-51d9-41c3-a820-73f8aabf91c3","timestamp":"2018-03-31T19:37:39.291Z"}
+{"level":"info","message":"Client disconnect: b51060e7-51d9-41c3-a820-73f8aabf91c3","timestamp":"2018-03-31T20:16:13.567Z"}
+{"level":"info","message":"Create new client: cd3461cf-bcac-458a-92da-95e16ee73ed7","timestamp":"2018-03-31T20:16:19.643Z"}
+{"level":"info","message":"Client disconnect: cd3461cf-bcac-458a-92da-95e16ee73ed7","timestamp":"2018-03-31T20:34:28.655Z"}
+{"level":"info","message":"Create new client: 4f70ee2f-ed0f-4841-b304-d8895c2cf2a2","timestamp":"2018-03-31T20:34:31.700Z"}
+{"level":"info","message":"Client disconnect: 4f70ee2f-ed0f-4841-b304-d8895c2cf2a2","timestamp":"2018-03-31T20:34:46.573Z"}
+{"level":"info","message":"Create new client: a419e826-331e-4a8e-93eb-b688d17e6143","timestamp":"2018-03-31T20:34:48.794Z"}
+{"level":"info","message":"Client disconnect: a419e826-331e-4a8e-93eb-b688d17e6143","timestamp":"2018-03-31T20:35:09.689Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:35:12.326Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:35:12.395Z"}
+{"level":"info","message":"Create new client: 79666b47-ded6-4576-882a-56179d5b4952","timestamp":"2018-03-31T20:35:12.979Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:36:31.717Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:36:31.719Z"}
+{"level":"info","message":"Client disconnect: 79666b47-ded6-4576-882a-56179d5b4952","timestamp":"2018-03-31T20:37:11.538Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:37:12.599Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:37:12.601Z"}
+{"level":"info","message":"Create new client: 8a68647e-ee86-48c3-ad12-e7c83c370863","timestamp":"2018-03-31T20:37:13.048Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:39:59.367Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:39:59.376Z"}
+{"level":"info","message":"Client disconnect: 8a68647e-ee86-48c3-ad12-e7c83c370863","timestamp":"2018-03-31T20:47:41.851Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:47:44.340Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:47:44.353Z"}
+{"level":"info","message":"Create new client: e4dfcc5f-298e-4351-b4ef-b582d7abfcfb","timestamp":"2018-03-31T20:47:44.986Z"}
+{"level":"info","message":"Client disconnect: e4dfcc5f-298e-4351-b4ef-b582d7abfcfb","timestamp":"2018-03-31T20:50:13.392Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T20:50:15.602Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T20:50:15.605Z"}
+{"level":"info","message":"Create new client: 49af912a-17c6-4fe9-81d6-1773b748a254","timestamp":"2018-03-31T20:50:16.237Z"}
+{"level":"info","message":"Client disconnect: 49af912a-17c6-4fe9-81d6-1773b748a254","timestamp":"2018-03-31T21:59:17.148Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T21:59:23.888Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T21:59:23.913Z"}
+{"level":"info","message":"Create new client: e191d6db-f965-4416-b8b8-6f2383b6cef5","timestamp":"2018-03-31T21:59:24.450Z"}
+{"level":"info","message":"Client disconnect: e191d6db-f965-4416-b8b8-6f2383b6cef5","timestamp":"2018-03-31T22:01:02.785Z"}
+{"error":{"code":103,"message":"Class service does not exist."},"level":"error","message":"Error generating response. ParseError { code: 103, message: 'Class service does not exist.' }","timestamp":"2018-03-31T22:01:05.661Z"}
+{"code":103,"message":"Class service does not exist.","level":"error","timestamp":"2018-03-31T22:01:05.663Z"}
+{"level":"info","message":"Create new client: ee89ed93-6dab-4b51-9bf1-cc6600d813b6","timestamp":"2018-03-31T22:01:06.725Z"}
+{"level":"info","message":"Client disconnect: ee89ed93-6dab-4b51-9bf1-cc6600d813b6","timestamp":"2018-03-31T22:01:27.768Z"}
+{"level":"info","message":"Create new client: 5cd971a9-302b-4b99-b945-6eff9900fe42","timestamp":"2018-03-31T22:01:31.089Z"}
+{"level":"info","message":"Create new client: 8e285156-3718-4735-a156-7f429b9bb25f","timestamp":"2018-03-31T22:01:31.090Z"}

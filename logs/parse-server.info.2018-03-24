@@ -1,0 +1,29 @@
+{"level":"info","message":"Create new client: 2fd2922c-dfb0-4fbf-bfcc-7382cae507bd","timestamp":"2018-03-24T20:23:53.093Z"}
+{"level":"info","message":"Create new client: 3d596d30-e088-4e09-a499-02732d938bc1","timestamp":"2018-03-24T20:29:59.258Z"}
+{"level":"info","message":"Client disconnect: 3d596d30-e088-4e09-a499-02732d938bc1","timestamp":"2018-03-24T20:30:02.732Z"}
+{"level":"info","message":"Client disconnect: 2fd2922c-dfb0-4fbf-bfcc-7382cae507bd","timestamp":"2018-03-24T21:02:00.235Z"}
+{"level":"info","message":"Create new client: 90344148-2e69-483a-be81-64cb465e2a31","timestamp":"2018-03-24T21:02:01.459Z"}
+{"level":"info","message":"Client disconnect: 90344148-2e69-483a-be81-64cb465e2a31","timestamp":"2018-03-24T21:32:14.270Z"}
+{"level":"info","message":"Create new client: c526f353-b90b-4d60-8b1a-fe22116e2653","timestamp":"2018-03-24T21:32:16.360Z"}
+{"level":"info","message":"Client disconnect: c526f353-b90b-4d60-8b1a-fe22116e2653","timestamp":"2018-03-24T23:06:01.639Z"}
+{"level":"info","message":"Create new client: 1a958941-30bb-4d4d-838a-9b63a9ef9af0","timestamp":"2018-03-24T23:06:04.280Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:06:57.794Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:06:57.812Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:07:01.428Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:07:01.429Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:07:02.624Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:07:02.626Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:07:08.435Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:07:08.437Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:09:08.439Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:09:08.440Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:10:58.981Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:10:58.982Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:11:06.620Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:11:06.622Z"}
+{"level":"info","message":"Client disconnect: 1a958941-30bb-4d4d-838a-9b63a9ef9af0","timestamp":"2018-03-24T23:12:24.421Z"}
+{"level":"info","message":"Create new client: 59200dea-9c78-4c37-8a70-d39b8325d43b","timestamp":"2018-03-24T23:12:26.488Z"}
+{"level":"info","message":"Client disconnect: 59200dea-9c78-4c37-8a70-d39b8325d43b","timestamp":"2018-03-24T23:12:30.509Z"}
+{"level":"info","message":"Create new client: 96d5b3ea-9ac7-45e3-99fb-0dab4509fe51","timestamp":"2018-03-24T23:12:32.401Z"}
+{"error":{"code":101,"message":"Invalid username/password."},"level":"error","message":"Error generating response. ParseError { code: 101, message: 'Invalid username/password.' }","timestamp":"2018-03-24T23:24:25.110Z"}
+{"code":101,"message":"Invalid username/password.","level":"error","timestamp":"2018-03-24T23:24:25.114Z"}

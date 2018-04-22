@@ -4,12 +4,10 @@ import agents from '../components/agents'
 import account from '../components/account'
 import login from '../components/login'
 import home from '../components/Home'
+import service from '../components/service'
 import Vue from 'vue'
 
-
 // Configure routes for all Applets
-
-
 
 Vue.use(VueRouter)
 
@@ -23,17 +21,22 @@ const router =
                 component: agents
             },
             {
-                path: '/Agents',
+                path: '/agents',
                 name: 'agent',
                 component: agents
             },
             {
-                path: '/Queues',
+                path: '/service',
+                name: 'agent',
+                component: service
+            },
+            {
+                path: '/queues',
                 name:'queues',
                 component:queues
             },
             {
-                path: '/Profile',
+                path: '/profile',
                 name:'profile',
                 component:account
             },

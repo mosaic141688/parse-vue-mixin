@@ -18,7 +18,7 @@ const api = new ParseServer({
 
 ParseServer.createLiveQueryServer(httpServer,
     {
-        liveQuery:['thing']
+        liveQuery:['thing','service','agent']
     })
 
 // Serve the Parse API on the /parse URL prefix
